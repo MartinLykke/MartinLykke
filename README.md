@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Lykke</h1>
-<h3 align="center">A to be Software Engineer</h3>
+<h3 align="center">A to be Software Engineer and .NET developer</h3>
 
 - 🔭 I’m currently working on **Master's thesis**
 
