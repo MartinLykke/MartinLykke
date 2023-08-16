@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Lykke</h1>
-<h3 align="center">A to be Software Engineer and .NET developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on my **Master's thesis** in Quality Assurance of TV2 Play
+- 🔭 I’m currently working as an IT Consultant
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
