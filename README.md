@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Lykke</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A motivated Software Engineer with a passion for delivering high-quality software solutions</h3>
 
 - 🔭 I’m currently working as an IT Consultant
 
